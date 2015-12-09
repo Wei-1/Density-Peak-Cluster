@@ -1,4 +1,4 @@
-# ARodCluster
+# DensityCluster
 This project is the realization of the fast clustering method proposed by Alex Rodriguez.
 Science 2014
 
